@@ -1,7 +1,6 @@
-
-  header {
+ header {
     padding: 20px;
-    background-color: #f8f9fa;
+    background-color: #feef18;
   }
 
   .align-right {
@@ -26,7 +25,7 @@
   
   section {
     padding: 80px 0;
-    background-color: #fff;
+    background-color: #bcb045;
   }
   
   section h2 {
@@ -45,7 +44,7 @@
     text-align: center;
     padding: 20px;
     margin: 20px;
-    background-color: #f8f9fa;
+    background-color: #14d3aa;
     border-radius: 5px;
   }
   
@@ -61,7 +60,7 @@
   
   footer {
     background-color: #333;
-    color: #fff;
+    color: #14d3aa;
     padding: 20px;
   }
   
