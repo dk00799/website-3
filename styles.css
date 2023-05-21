@@ -1,0 +1,99 @@
+
+  header {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+
+  .align-right {
+    justify-content: flex-end;
+  } 
+  
+  .hero {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    color: #333;
+  }
+  
+  .hero h2 {
+    font-size: 24px;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  section {
+    padding: 80px 0;
+    background-color: #fff;
+  }
+  
+  section h2 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 40px;
+  }
+  
+  .subscription-plans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .plan {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  .plan h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .plan p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .footer-links li {
+    margin: 0 10px;
+  }
+  
+  .footer-links li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-links li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-links li:first-child {
+    margin-left: 0;
+  }
+  
+  .footer-links li:last-child {
+    margin-right: 0;
+  }
+  
+  .footer p {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 0;
+  }
